@@ -6,4 +6,6 @@ export interface Props {
 	containerStyles?: string
 	disabled?: boolean
 	type?: 'button' | 'submit'
+	textStyles?: string
+	rightIcon?: string
 }
